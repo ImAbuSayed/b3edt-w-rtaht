@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي قلبي معاك
+> نور عيني بيستناك
+> حياتي كلها فداك
+> في الليل أنا بهواك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
